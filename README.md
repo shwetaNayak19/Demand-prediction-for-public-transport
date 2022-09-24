@@ -43,6 +43,6 @@ As data is ready, we trained different model to check their performances and per
 
 ML Models and Metrics
 
-![image](https://user-images.githubusercontent.com/105973170/190311554-7d2082cf-0752-4115-a49a-90432557e6b3.png)
+![image](https://user-images.githubusercontent.com/105973170/192091003-58de03aa-7062-4701-a592-4e156fd07b72.png)
 
 
